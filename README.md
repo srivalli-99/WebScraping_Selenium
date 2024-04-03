@@ -8,9 +8,12 @@ Accurately estimating rental prices is essential for both tenants and landlords 
 **Methodology**
 
 **1. Selenium Web Scraping**
+
 Utilized Selenium to automate web browser interactions and extract rental house data from the Makaan website.
 Configured the scraper to navigate through pages, apply filters (e.g., location, budget range, property type), and extract relevant information such as property details, amenities, and pricing.
+
 **2. Data Extraction and Storage**
+
 1)Extracted data including property location, size, amenities, and rental prices from the web pages.
 2)Stored the extracted data in a structured format (e.g., CSV file) for further processing and analysis.
 
